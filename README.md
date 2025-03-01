@@ -43,5 +43,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 Feel free to submit pull requests or open issues for suggestions and improvements!
 
 ## 📧 Contact
-For any queries, reach out at jaskirats2004@gmail.com@example.com.
+For any queries, reach out at jaskirats2004@gmail.com
 
